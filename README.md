@@ -11,3 +11,6 @@ This project is a simple number guessing game where the computer generates a sec
 
 fridayProject4 - Trivia Quiz Program
 This project is a simple Trivia Quiz that allows students to study test questions. The program displays a series of questions from a dictionary and gives users a chance to answer each question. After the user submits an answer, the program provides feedback on whether the answer was correct or incorrect. This tool can help users learn trivia or study for exams.
+
+fridayProject5 - Colorful Text Display Program
+This project is a Colorful Text Display Program that allows users to change the color of text using five different colors. The program defines five functions to apply specific text colors (red, blue, green, yellow, and brown) using ANSI escape codes. Users can input text and select a color to display their custom message in the chosen color.
