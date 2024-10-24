@@ -14,3 +14,6 @@ This project is a simple Trivia Quiz that allows students to study test question
 
 fridayProject5 - Colorful Text Display Program
 This project is a Colorful Text Display Program that allows users to change the color of text using five different colors. The program defines five functions to apply specific text colors (red, blue, green, yellow, and brown) using ANSI escape codes. Users can input text and select a color to display their custom message in the chosen color.
+
+fridayProject6 - Bank Account Manager Program
+This project is an Interactive Bank Account Manager that allows users to manage their bank account by performing basic operations such as depositing money, withdrawing money, and checking their balance. The program is built using a class structure to represent a bank account and includes an indefinite loop to continuously prompt the user for actions related to their account.
