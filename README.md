@@ -8,3 +8,6 @@ This project is a PowerBall Lottery Number Generator that helps users generate r
 
 fridayProject3 - Number Guessing Game
 This project is a simple number guessing game where the computer generates a secret number between 1 and 10, and the user tries to guess the number. The program provides feedback to the user on whether their guess is too low or too high, and it continues asking for guesses until the user guesses correctly. The game also allows the user to choose whether they want to play or not.
+
+fridayProject4 - Trivia Quiz Program
+This project is a simple Trivia Quiz that allows students to study test questions. The program displays a series of questions from a dictionary and gives users a chance to answer each question. After the user submits an answer, the program provides feedback on whether the answer was correct or incorrect. This tool can help users learn trivia or study for exams.
